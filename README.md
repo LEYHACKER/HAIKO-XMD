@@ -44,7 +44,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/PrinceXtremeX/HAIKO-XMD/fork"><img title="HAIKO-XMD" src="https://img.shields.io/badge/FORK-HAIKO-%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/PrinceXtremeX/HAIKO-XMD/fork"><img title="HAIKO XMD" src="https://img.shields.io/badge/FORK-HAIKO-%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
